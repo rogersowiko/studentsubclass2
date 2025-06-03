@@ -6,7 +6,7 @@
     android:padding="24dp">
 
     <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="match_parent"black box android:id=""
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
